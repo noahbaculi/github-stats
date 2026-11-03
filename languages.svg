@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #dea584; 
-  width: 40.536%;
+  width: 40.535%;
 " class="progress-item"></span><span style="
   background-color: #cb171e; 
-  width: 32.122%;
+  width: 32.125%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 11.816%;
@@ -203,7 +203,7 @@ div.ellipsis {
   width: 0.011%;
 " class="progress-item"></span><span style="
   background-color: #0064bd; 
-  width: 0.005%;
+  width: 0.003%;
 " class="progress-item"></span><span style="
   background-color: #701516; 
   width: 0.003%;
@@ -249,7 +249,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">YAML</span>
-  <span class="percent">32.12%</span>
+  <span class="percent">32.13%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -601,7 +601,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jsonnet</span>
-  <span class="percent">0.01%</span>
+  <span class="percent">0.00%</span>
 </li>
 <li style="animation-delay: 3750ms;">
   <svg 
