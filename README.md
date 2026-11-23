@@ -176,6 +176,19 @@ and retrieve the images.
 1. Star this repo if you like it!
 
 
+## Excluded repos
+
+Value of the `EXCLUDE_REPOS` secret for this fork, recorded here because GitHub does not show secret values
+
+```text
+Stirling-Tools/Stirling-PDF,github-education-resources/GitHubGraduation-2021,tontinton/maki,jugglerchris/rust-html2text,EnterpriseDB/docs,noahbaculi/kylee-study-guide,aquaproj/aqua-registry
+```
+
+- `EnterpriseDB/docs` has 139 MB of MDX that took 90% of the language card
+- `noahbaculi/kylee-study-guide` is mostly generated HTML
+- `aquaproj/aqua-registry` is 4.3 MB of upstream YAML
+- `Stirling-Tools/Stirling-PDF`, `github-education-resources/GitHubGraduation-2021`, `tontinton/maki` and `jugglerchris/rust-html2text` are large repos with a few commits from me, reasons not recorded
+
 ## Analyzing the Data
 
 Using the `github-stats` CLI (available on the
